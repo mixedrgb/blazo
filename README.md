@@ -6,5 +6,5 @@ but then life happened so right now it's pretty broken, maybe?
 It should only need the master API key for your account along with the
 account ID. it would be in the format `somethingsomething:somethingsomething`
 
-Using [this](LICENSE.txt) because I don't intend for this to be used
+Using [this license](LICENSE.txt) because I don't intend for this to be used
 by the outside world so why not.
